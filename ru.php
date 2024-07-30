@@ -351,7 +351,7 @@ $LANGS['allowratingscheck'] = "Разрешить <b>оценивать</b> эт
 $LANGS['thisvideoispublic'] = "Это видео общедоступно.";
 $LANGS['thisvideoisprivate'] = "Это видео приватно.";
 $LANGS['thisvideois'] = "Это видео";
-$LANGS['like'] = "Мне понравилось";
+$LANGS['like'] = "Нравится";
 $LANGS['saveto'] = "Сохранить в";
 $LANGS['uservideoamount'] = "{n} видео";
 $LANGS['respondvideo'] = "Ответить на это видео...";
@@ -385,12 +385,12 @@ $LANGS['removetooltip'] = "Удалить";
 $LANGS['allcomments'] = 'Все комментарии';
 
 /* Player */
-$LANGS['fullscreen'] = "Full screen";
-$LANGS['expand'] = "Expand";
-$LANGS['shrink'] = "Shrink";
-$LANGS['popout'] = "Pop out";
-$LANGS['mute'] = "Mute";
-$LANGS['unmute'] = "Unmute";
+$LANGS['fullscreen'] = "Полный экран";
+$LANGS['expand'] = "Расширить";
+$LANGS['shrink'] = "Уменьшить";
+$LANGS['popout'] = "Вывести в окно";
+$LANGS['mute'] = "Выключить звук";
+$LANGS['unmute'] = "Включить звук";
 
 /* Sign In */
 $LANGS['username'] = "Имя";
@@ -832,8 +832,8 @@ $LANGS['checkemaildesc'] = "На ваш электронный адрес был
 $LANGS['resendemail'] = "Повторно отправить письмо с подтверждением по электронной почте";
 
 /* Edit Video Annotations */
-$LANGS['publish'] = "Опубликовать";
-$LANGS['published'] = "Опубликовано";
+$LANGS['publish'] = "Сохранить";
+$LANGS['published'] = "Сохранено";
 $LANGS['saved'] = "Сохранено";
 $LANGS['notvaliddate'] = "Вы ввели неверную временную метку!";
 $LANGS['outsiderange'] = "Вы ввели временную метку, выходящую за пределы диапазона длительности видео!";
